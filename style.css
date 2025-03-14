@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Monkey King';
+    src: url('fonts/MONKEY KING.woff2') format('woff2'),
+         url('fonts/MONKEY KING.woff') format('woff'),
+         url('fonts/MONKEY KING.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+
+.title {
+    text-align: center;
+    font-family: 'Monkey King', sans-serif;
+    font-size: 50px;
+}
+.Yap {
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
